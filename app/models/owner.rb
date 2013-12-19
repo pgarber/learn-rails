@@ -1,3 +1,5 @@
+# this is no longer used, per p.220
+
 class Owner
   def name
     name = 'Foobar Kadigan'
